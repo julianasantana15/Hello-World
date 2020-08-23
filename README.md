@@ -1,2 +1,2 @@
-# Hello World
- First GIT and GITHUB resository
+# Hello, World
+ First Git and GitHub resository
